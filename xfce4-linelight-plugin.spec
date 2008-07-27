@@ -3,7 +3,7 @@ Name:		xfce4-linelight-plugin
 Version:	0.1.6
 Release:	%mkrel 1
 License:	GPLv2+
-Group:		Graphical Desktop/Xfce
+Group:		Graphical desktop/Xfce
 Url:		http://goodies.xfce.org/projects/panel-plugins/%{name}
 Source0:	http://goodies.xfce.org/releases/%{name}/%{name}-%{version}.tar.bz2
 BuildRequires:	xfce4-panel-devel >= 4.4.2

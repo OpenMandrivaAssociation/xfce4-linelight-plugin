@@ -1,7 +1,7 @@
 Summary:	Search plugin for Xfce panel
 Name:		xfce4-linelight-plugin
 Version:	0.1.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 Url:		http://goodies.xfce.org/projects/panel-plugins/%{name}

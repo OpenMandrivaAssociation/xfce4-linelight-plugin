@@ -4,7 +4,7 @@ Version:	0.1.6
 Release:	7
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-Url:		http://goodies.xfce.org/projects/panel-plugins/%{name}
+Url:		https://goodies.xfce.org/projects/panel-plugins/%{name}
 Source0:	http://goodies.xfce.org/releases/%{name}/%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(libxfce4panel-1.0)
 BuildRequires:	pkgconfig(libxfcegui4-1.0)
